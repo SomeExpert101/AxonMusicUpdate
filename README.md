@@ -4,6 +4,7 @@
 **PC/Laptop app!**
 
 ***What is Axon Music?***
+
 Axon music is an app to explore songs with YouTube Query search 
 and convert YouTube Video to mp3! This is so you can listen to 
 music offline if your internet down and have easy access to your 
@@ -13,6 +14,7 @@ to listen to your favourite songs that have been added to your
 playlist.
 
 ***Is Axon Music safe?***
+
 Yes! Axon music is safe, you can download the zip file without 
 having to open it to check for yourself if its virus free or 
 you can look through here: 
