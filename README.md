@@ -33,3 +33,5 @@ them to Axon Music. I better get working 😁
 Please leave any **suggestions** to the app! It will be highly appreciated 😁!
 I really do want to keep our customers happy and make easy use for users😄!
 
+Thank you for taking your time to read!
+
