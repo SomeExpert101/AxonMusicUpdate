@@ -13,6 +13,7 @@ to listen to your favourite songs that have been added to your playlist.
 Yes! Axon music is safe, you can download the zip file without having to open it to check for yourself if its 
 virus free or you can look through here: 
 https://www.virustotal.com/gui/file/ffc4e3bdd2666a8707815331e3d714bbc0e01ae5b5b074d2365b727fa29ef3ac/detection
+
 ***WE DO NOT CONDONE ANY MALICOUS ACTIVITY*** in our app as we want our users to be safe online!
 
 ***Does Axon Music have an auto updater?***
